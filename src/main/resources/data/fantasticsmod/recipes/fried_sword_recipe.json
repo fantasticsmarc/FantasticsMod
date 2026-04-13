@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    " # ",
+    " @ "
+  ],
+  "key": {
+    "#": {
+      "item": "fantasticsmod:fried_chicken"
+    },
+    "@": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "fantasticsmod:fried_sword",
+    "count": 1
+  }
+}

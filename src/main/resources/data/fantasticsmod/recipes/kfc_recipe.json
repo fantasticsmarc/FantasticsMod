@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    " @ "
+  ],
+  "key": {
+    "#": {
+      "item": "fantasticsmod:fried_chicken"
+    },
+    "@": {
+      "item": "minecraft:bowl"
+    }
+  },
+  "result": {
+    "item": "fantasticsmod:kfc",
+    "count": 1
+  }
+}

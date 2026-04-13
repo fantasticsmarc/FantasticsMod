@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "ingredient": {
+    "item": "minecraft:chicken"
+  },
+  "result": "fantasticsmod:fried_chicken",
+  "experience": 0.2,
+  "cookingtime": 400
+}

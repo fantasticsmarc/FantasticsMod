@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "fantasticsmod:fried_sword"
+  },
+  "result": "fantasticsmod:kentucky_fried_sword",
+  "experience": 5,
+  "cookingtime": 10000
+}

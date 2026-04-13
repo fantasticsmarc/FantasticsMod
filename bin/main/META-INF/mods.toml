@@ -1,0 +1,18 @@
+modLoader = "javafml"
+loaderVersion = "[1.19,)" # versión de Minecraft con la que es compatible
+license = "All rights reserved" # Licencia del mod
+
+[[mods]]
+modId = "fantasticsmod"
+version = "1.0"
+displayName = "FantasticsMod"
+description='''
+My first minecraft mod made to practice and learn minecraft programming mod skills.
+This mod will have a big variety of modded things, that I made following a tutorial to get started.
+'''
+
+# Entradas opcionales
+authors = "Fantasticsmarc"
+credits = "Made following the Morsa Programando tutorial"
+logoFile = "logo.png"
+
