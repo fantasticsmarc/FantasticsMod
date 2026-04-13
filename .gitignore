@@ -13008,3 +13008,6 @@
 /run/saves/FantasticsMod tests/session.lock
 /run/usercache.json
 /run/usernamecache.json
+run/
+*.log
+crash-*.txt
