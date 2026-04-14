@@ -45,4 +45,4 @@ Typical files you may want to add or maintain in the future:
 - Add screenshots and gameplay examples
 
 ## License
-This project should include a license file before public distribution or third-party collaboration.
+MIT
