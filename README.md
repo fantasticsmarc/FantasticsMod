@@ -1,4 +1,5 @@
 # FantasticsMod
+<img align="left" alt="Java" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
 
 FantasticsMod is a custom Minecraft mod project focused on expanding gameplay with original features, mechanics, and content.
 
