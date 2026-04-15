@@ -36,7 +36,6 @@ Before contributing:
 - Verify the mod loader and Minecraft version compatibility
 
 ## Repository structure
-Typical files you may want to add or maintain in the future:
 - Source code
 - Assets and textures
 - Build configuration
@@ -44,10 +43,9 @@ Typical files you may want to add or maintain in the future:
 - Compatibility notes
 
 ## Roadmap
-- Add clearer setup instructions
-- Document supported Minecraft versions
-- Add release packages
-- Add screenshots and gameplay examples
+- [ ] Document supported Minecraft versions
+- [ ] Add release packages
+- [ ] Add screenshots and gameplay examples
 
 ## License
 MIT
